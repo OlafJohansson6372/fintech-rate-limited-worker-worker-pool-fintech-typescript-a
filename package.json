@@ -1,0 +1,1 @@
+{"name":"fintech-rate-limited-worker","version":"1.0.0","type":"module","scripts":{"typecheck":"tsc --noEmit","test":"node --import tsx test/worker.test.ts","start":"node --import tsx src/worker.ts"},"dependencies":{"zod":"^3.23.8","tsx":"^4.19.1","typescript":"^5.6.3"}}
